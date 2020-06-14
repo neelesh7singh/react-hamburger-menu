@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-hamburger-menu/static/css/main.aa9bcf1c.chunk.css",
+    "main.js": "/react-hamburger-menu/static/js/main.0e21d115.chunk.js",
+    "main.js.map": "/react-hamburger-menu/static/js/main.0e21d115.chunk.js.map",
+    "runtime-main.js": "/react-hamburger-menu/static/js/runtime-main.4ca25d2f.js",
+    "runtime-main.js.map": "/react-hamburger-menu/static/js/runtime-main.4ca25d2f.js.map",
+    "static/js/2.7fa8fb9d.chunk.js": "/react-hamburger-menu/static/js/2.7fa8fb9d.chunk.js",
+    "static/js/2.7fa8fb9d.chunk.js.map": "/react-hamburger-menu/static/js/2.7fa8fb9d.chunk.js.map",
+    "index.html": "/react-hamburger-menu/index.html",
+    "precache-manifest.97b773d527ca40a49a06eea7e2c6101a.js": "/react-hamburger-menu/precache-manifest.97b773d527ca40a49a06eea7e2c6101a.js",
+    "service-worker.js": "/react-hamburger-menu/service-worker.js",
+    "static/css/main.aa9bcf1c.chunk.css.map": "/react-hamburger-menu/static/css/main.aa9bcf1c.chunk.css.map",
+    "static/js/2.7fa8fb9d.chunk.js.LICENSE.txt": "/react-hamburger-menu/static/js/2.7fa8fb9d.chunk.js.LICENSE.txt",
+    "static/media/austin.webp": "/react-hamburger-menu/static/media/austin.a7aadf33.webp",
+    "static/media/beijing.webp": "/react-hamburger-menu/static/media/beijing.209dcd10.webp",
+    "static/media/dallas.webp": "/react-hamburger-menu/static/media/dallas.2bc38187.webp",
+    "static/media/newyork.webp": "/react-hamburger-menu/static/media/newyork.ebb81965.webp",
+    "static/media/sanfrancisco.webp": "/react-hamburger-menu/static/media/sanfrancisco.b58ad59e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ca25d2f.js",
+    "static/js/2.7fa8fb9d.chunk.js",
+    "static/css/main.aa9bcf1c.chunk.css",
+    "static/js/main.0e21d115.chunk.js"
+  ]
+}
